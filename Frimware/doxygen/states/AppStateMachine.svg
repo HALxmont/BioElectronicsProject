@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "https://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="83.5" cy="240.5" rx="30" ry="30"/>
+	<text x="60.5" y="246.5" font-family="Times New Roman" font-size="20">Wait</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="83.5" cy="240.5" rx="24" ry="24"/>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="393.5" cy="240.5" rx="30" ry="30"/>
+	<text x="355.5" y="246.5" font-family="Times New Roman" font-size="20">Normal</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="642.5" cy="234.5" rx="30" ry="30"/>
+	<text x="611.5" y="240.5" font-family="Times New Roman" font-size="20">Alarm</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 416.569,221.374 A 182.655,182.655 0 0 1 618.536,216.508"/>
+	<polygon fill="black" stroke-width="1" points="618.536,216.508 614.43,208.014 609.102,216.477"/>
+	<text x="485.5" y="178.5" font-family="Times New Roman" font-size="20">Alarm</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 96.608,213.561 A 165.765,165.765 0 0 1 380.392,213.561"/>
+	<polygon fill="black" stroke-width="1" points="380.392,213.561 380.536,204.128 371.976,209.298"/>
+	<text x="226.5" y="124.5" font-family="Times New Roman" font-size="20">UI</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 366.871,254.29 A 308.47,308.47 0 0 1 110.129,254.29"/>
+	<polygon fill="black" stroke-width="1" points="366.871,254.29 357.516,253.073 361.677,262.166"/>
+	<text x="216.5" y="303.5" font-family="Times New Roman" font-size="20">RTC</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 111.112,228.792 A 361.982,361.982 0 0 1 365.888,228.792"/>
+	<polygon fill="black" stroke-width="1" points="365.888,228.792 360.16,221.296 356.641,230.656"/>
+	<text x="218.5" y="196.5" font-family="Times New Roman" font-size="20">SAT</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 621.331,255.747 A 383.884,383.884 0 0 1 105.12,261.288"/>
+	<polygon fill="black" stroke-width="1" points="621.331,255.747 612.066,257.525 618.869,264.854"/>
+	<text x="333.5" y="379.5" font-family="Times New Roman" font-size="20">Alarm</text>
+</svg>
+

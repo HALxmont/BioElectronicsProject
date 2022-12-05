@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "https://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="70.5" cy="212.5" rx="30" ry="30"/>
+	<text x="9.5" y="218.5" font-family="Times New Roman" font-size="20">Unconnectd</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="70.5" cy="212.5" rx="24" ry="24"/>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="357.5" cy="212.5" rx="30" ry="30"/>
+	<text x="307.5" y="218.5" font-family="Times New Roman" font-size="20">GetParam</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="637.5" cy="212.5" rx="30" ry="30"/>
+	<text x="588.5" y="218.5" font-family="Times New Roman" font-size="20">SetParam</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 335.99,233.368 A 191.227,191.227 0 0 1 92.01,233.368"/>
+	<polygon fill="black" stroke-width="1" points="335.99,233.368 326.64,234.621 333.019,242.322"/>
+	<text x="140.5" y="298.5" font-family="Times New Roman" font-size="20">GetParamByte</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 614.966,232.261 A 195.823,195.823 0 0 1 380.034,232.261"/>
+	<polygon fill="black" stroke-width="1" points="614.966,232.261 605.566,233.059 611.565,241.06"/>
+	<text x="425.5" y="292.5" font-family="Times New Roman" font-size="20">SetParamByte</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 381.173,194.114 A 209.482,209.482 0 0 1 613.827,194.114"/>
+	<polygon fill="black" stroke-width="1" points="381.173,194.114 390.603,193.83 385.05,185.514"/>
+	<text x="424.5" y="149.5" font-family="Times New Roman" font-size="20">GetParamByte</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 91.957,191.577 A 190.769,190.769 0 0 1 336.043,191.577"/>
+	<polygon fill="black" stroke-width="1" points="91.957,191.577 101.304,190.302 94.907,182.617"/>
+	<text x="148.5" y="138.5" font-family="Times New Roman" font-size="20">ConnectByte</text>
+	<path stroke="black" stroke-width="1" fill="none" d="M 622.829,238.655 A 316.998,316.998 0 0 1 85.171,238.655"/>
+	<polygon fill="black" stroke-width="1" points="85.171,238.655 85.17,248.089 93.651,242.79"/>
+	<text x="288.5" y="408.5" font-family="Times New Roman" font-size="20">ConnectByte</text>
+</svg>
+
